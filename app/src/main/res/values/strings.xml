@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamenCL2</string>
+    <string-array name="sexo">
+        <item></item>
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+</resources>
